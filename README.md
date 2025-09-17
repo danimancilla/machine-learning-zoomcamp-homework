@@ -1,3 +1,1 @@
-# machine-learning-zoomcamp-homework
-
-Hello world
+# machine-learning-zoomcamp-2025-homeworks
